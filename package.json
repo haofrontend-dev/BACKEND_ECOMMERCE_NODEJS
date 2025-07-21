@@ -10,10 +10,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mongoose": "^8.16.3"
   },
   "devDependencies": {
     "compression": "^1.8.0",
+    "dotenv": "^17.2.0",
     "helmet": "^8.1.0",
     "morgan": "^1.10.0"
   }
